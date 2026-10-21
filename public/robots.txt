@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace the sitemap URL with SPF's final production domain after launch.
-# Sitemap: https://YOUR-SPF-DOMAIN/sitemap.xml
+Sitemap: https://biswayanchakravorty.github.io/SPF/sitemap.xml
