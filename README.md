@@ -40,3 +40,6 @@ npm run preview
 ## Notes
 
 This is a clean implementation based on the project brief, not a source-code export of the existing Lovable project. The product images are illustrative placeholders from Unsplash and must be replaced or approved by SPF before the website is represented as production-ready. No private credentials or Search Console tokens belong in this repository.
+
+
+GitHub Pages deployment is configured through `.github/workflows/deploy-pages.yml`.
